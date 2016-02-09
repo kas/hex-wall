@@ -8,6 +8,6 @@ Used Java, Eclipse, bat scripting, and PowerShell.
 The code was lost after I switched from my Windows desktop to my MacBook.
 
 Converts the current time HH:mm:ss to HHmmss and adds a # to the beginning so it looks like so:
-#HHmmss
+\#HHmmss
 
 The program then paints a 1920x1080 image with that specific color code and sets it as the background.
