@@ -6,4 +6,5 @@ This is a project I worked on in July 2014 that changes the wallpaper of a Windo
 # Basic Overview
 The program converts the current time (HH:mm:ss) to HHmmss and adds a # to the beginning so that it looks like so:
 \#HHmmss
+
 The program then paints a 1920x1080 image with that specific color code and sets it as the background of the computer.
