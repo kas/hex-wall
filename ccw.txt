@@ -1,0 +1,7 @@
+[*]get time
+[*]translate time into html color code (hexadecimal)
+[*]create wallpaper at given resolution (defined in settings/ini file) 
+	[*]fill wallpaper with html color code
+[*]set that picture as wallpaper
+
+uses ini4j 0.5.2 (SNAPSHOT)
